@@ -13,7 +13,7 @@ from PIL import Image
 
 
 # Configure API key directly
-genai.configure(api_key="AIzaSyDfCKdc4aFViunFSapHju06dt33t2GvgK0")
+genai.configure(api_key="USE YOUR API KEY FORM GOOGLE gemini AI ")
 
 
 # Base Window Class for Styling
