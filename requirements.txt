@@ -1,0 +1,7 @@
+PyQt5
+pandas
+mysql-connector-python
+plotly
+pyttsx3
+Pillow
+google-generativeai
